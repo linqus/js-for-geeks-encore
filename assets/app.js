@@ -10,4 +10,4 @@ import './styles/app.css';
 
 // start the Stimulus application
 //import './bootstrap';
-console.log('Hi there!');
+console.log('Hi there!!!');
