@@ -25,6 +25,9 @@ Encore
     .addEntry('admin_article_form', './assets/admin_article_form.js')
     .addEntry('algolia-autocomplete', './assets/algolia-autocomplete.js')
 
+    .addStyleEntry('login','./assets/styles/login.scss')
+    .addStyleEntry('account','./assets/styles/account.scss')
+
     // enables the Symfony UX Stimulus bridge (used in assets/bootstrap.js)
     .enableStimulusBridge('./assets/controllers.json')
     
