@@ -1,3 +1,10 @@
+import $ from 'jquery';
+import {Dropzone} from 'dropzone';
+import {Sortable} from 'sortablejs';
+
+import './styles/admin_article_form.scss';
+
+
 Dropzone.autoDiscover = false;
 
 $(document).ready(function() {
